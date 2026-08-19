@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.app_backend.CRUD.model.Course;
 import com.app_backend.CRUD.service.CourseService;
 
+
 @RestController
 @RequestMapping("/course")
 public class CourseController {
